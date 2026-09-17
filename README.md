@@ -8,4 +8,4 @@ Funcionalidades que ele oferece:
 
  ## Aplicação online
 
-Acesse o app publicado aqui: https://dashboard.render.com/web/srv-dakqeh7f3r2c73dud1eg/deploys/dep-dakqehff3r2c73dud2g0?r=2026-09-15%4020%3A14%3A01%7E2026-09-15%4020%3A17%3A34
+Acesse o app publicado aqui: https://sprint4-projeto.onrender.com
